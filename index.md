@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Professional Work 
 
-[Project 1 Title](/sample_page)
+[Ace Combat 7](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ghost Racing](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Star Wars 1313](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Personal Work
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
