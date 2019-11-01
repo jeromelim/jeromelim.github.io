@@ -10,10 +10,8 @@
 
 Worked on the Mechanic Team which was responsible for Aircraft & Vehicles
 
-Responsible for migrating legacy asset data to new engine
-
-Hardsurface Rigging and Animation for vehicle parts and weapon bays
-
+Responsible for migrating legacy asset data to new engine<br>
+Hardsurface Rigging and Animation for vehicle parts and weapon bays<br>
 Export and setup for aircraft destruction parts, VFX sockets
 
 <img src="images/AceCombat01.jpg?raw=true"/>
