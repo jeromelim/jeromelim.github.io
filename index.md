@@ -44,7 +44,7 @@ Adhoc Art tasks when required<br>
 ---
 [Star Wars 1313](https://youtu.be/vh820gAO7e8?t=130)
 
-Droid Character & part of Damaged Ship Environment team 
+Droid Character (High Poly and In Game Model) & member of Damaged Ship Environment team 
 
 <img src="images/1313_screenshot_3.jpg?raw=true"/>
 <img src="images/1313_screenshot_5.jpg?raw=true"/>
