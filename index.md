@@ -6,8 +6,6 @@
 
 [Ace Combat 7](https://youtu.be/HnU9v1IE1nw?t=15)
 
-Technical Artist
-
 [![Ace Combat 7 Launch Trailer](images/AceCombat_Planes.jpg)](https://youtu.be/HnU9v1IE1nw?t=15)
 
 Worked on the Mechanic Team which was responsible for Aircraft & Vehicles
@@ -48,7 +46,7 @@ Adhoc Art tasks when required<br>
 ---
 [Star Wars 1313](https://youtu.be/vh820gAO7e8?t=130)
 
-Droid Character & Damaged Ship Environment Modeling
+Droid Character & part of Damaged Ship Environment team 
 
 <img src="images/1313_screenshot_3.jpg?raw=true"/>
 <img src="images/1313_screenshot_5.jpg?raw=true"/>
@@ -57,12 +55,7 @@ Droid Character & Damaged Ship Environment Modeling
 <img src="images/1313_screenshot_16.jpg?raw=true"/>
 
 ---
-[Star Wars The Clone Wars (TV)](http://example.com/)
-<img src="images/buzzdroid01.png?raw=true"/>
-<img src="images/buzzdroid02.png?raw=true"/>
-<img src="images/buzzdroid03.png?raw=true"/>
 
----
 
 ### Personal Work
 
