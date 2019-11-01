@@ -25,11 +25,9 @@ Cockpit instruments animation data export and animation setup
 
 <img src="images/AceCombat_Cockpit.jpg?raw=true"/>
 
-Responsible for VR Pilot Rigging and animation setup
-
-Maya Python Export pipeline tools to UE4
-
-In engine implementation & troubleshooting
+Responsible for VR Pilot Rigging and animation setup<br>
+Maya Python Export pipeline tools to UE4<br>
+In engine implementation & troubleshooting<br>
 
 
 
@@ -38,12 +36,12 @@ In engine implementation & troubleshooting
 
 <img src="images/GhostRacing03.jpg?raw=true"/>
 
-Creation of C# Editor Tools for Unity to improve workflows
-Runtime C# scripts for procedural asset setup/animation 
-Creation of Export and Validation Python tools from Maya to Unity
-Documentation of implemented workflow, tools, and art assets optimization strategies
-Technical support for the artists
-Adhoc Art tasks when required
+Creation of C# Editor Tools for Unity to improve workflows<br>
+Runtime C# scripts for procedural asset setup/animation <br>
+Creation of Export and Validation Python tools from Maya to Unity<br>
+Documentation of implemented workflow, tools, and art assets optimization strategies<br>
+Technical support for the artists<br>
+Adhoc Art tasks when required<br>
 
 
 
@@ -70,8 +68,7 @@ Droid Character & Damaged Ship Environment Modeling
 
 - [SDIPVFX 2018 - Crowd Animation: Houdini to Unity](https://docs.google.com/presentation/d/1nuwsu4v7RLQ45O0eFmXiSSW_0MKI0wT9Tfr_FqbIhn4/edit?usp=sharing)
 
-Houdini Project done for Specialist Diploma in VFX at Nanyang Polytechnic
-
+Houdini Project done for Specialist Diploma in VFX at Nanyang Polytechnic<br>
 Explored using Houdini to convert animated characters for use in Unity via Houdini Engine.
 
 ---
