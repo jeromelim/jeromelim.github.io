@@ -4,26 +4,75 @@
 
 ### Professional Work 
 
-[Ace Combat 7](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ace Combat 7](https://youtu.be/HnU9v1IE1nw?t=15)
+
+Technical Artist
+
+[![Ace Combat 7 Launch Trailer](images/AceCombat_Planes.jpg)](https://youtu.be/HnU9v1IE1nw?t=15)
+
+Worked on the Mechanic Team which was responsible for Aircraft & Vehicles
+
+Responsible for migrating legacy asset data to new engine
+
+Hardsurface Rigging and Animation for vehicle parts and weapon bays
+
+Export and setup for aircraft destruction parts, VFX sockets
+
+<img src="images/AceCombat01.jpg?raw=true"/>
+<img src="images/AceCombat02.jpg?raw=true"/>
+
+Cockpit instruments animation data export and animation setup
+
+<img src="images/AceCombat_Cockpit.jpg?raw=true"/>
+
+Responsible for VR Pilot Rigging and animation setup
+
+Maya Python Export pipeline tools to UE4
+
+In engine implementation & troubleshooting
+
+
 
 ---
-[Ghost Racing](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ghost Racing: Formula E](https://www.youtube.com/watch?v=ZhsEcBofBSo)
+
+<img src="images/GhostRacing03.jpg?raw=true"/>
+
+Creation of C# Editor Tools for Unity to improve workflows
+Runtime C# scripts for procedural asset setup/animation 
+Creation of Export and Validation Python tools from Maya to Unity
+Documentation of implemented workflow, tools, and art assets optimization strategies
+Technical support for the artists
+Adhoc Art tasks when required
+
+
 
 ---
-[Star Wars 1313](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Star Wars 1313](https://youtu.be/vh820gAO7e8?t=130)
+
+Droid Character & Damaged Ship Environment Modeling
+
+<img src="images/1313_screenshot_3.jpg?raw=true"/>
+<img src="images/1313_screenshot_5.jpg?raw=true"/>
+<img src="images/1313_screenshot_9.jpg?raw=true"/>
+<img src="images/1313_screenshot_12.jpg?raw=true"/>
+<img src="images/1313_screenshot_16.jpg?raw=true"/>
+
+---
+[Star Wars The Clone Wars (TV)](http://example.com/)
+<img src="images/buzzdroid01.png?raw=true"/>
+<img src="images/buzzdroid02.png?raw=true"/>
+<img src="images/buzzdroid03.png?raw=true"/>
 
 ---
 
 ### Personal Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SDIPVFX 2018 - Crowd Animation: Houdini to Unity](https://docs.google.com/presentation/d/1nuwsu4v7RLQ45O0eFmXiSSW_0MKI0wT9Tfr_FqbIhn4/edit?usp=sharing)
+
+Houdini Project done for Specialist Diploma in VFX at Nanyang Polytechnic
+
+Explored using Houdini to convert animated characters for use in Unity via Houdini Engine.
 
 ---
 
